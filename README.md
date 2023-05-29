@@ -1,4 +1,4 @@
-Video Demonstration: https://youtu.be/9Y-Y8DYltGE
+Video Demonstration:  https://youtu.be/9Y-Y8DYltGE
 
 # CS50W Capstone
 ## Distinctiveness and Complexity:
